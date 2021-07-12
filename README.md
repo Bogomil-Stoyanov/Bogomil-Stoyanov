@@ -1,11 +1,12 @@
 ### Hello, I am Bogomil Stoyanov 👋
 
 ##### My skills:
-*  Android app development - Kotlin and Java (Jetpack Compose, MVVM, Retrofit, Room, Dependency injection with Dagger Hilt)
+*  Android app development - Kotlin and Java (Jetpack Compose, MVVM, Retrofit, Room, Dagger Hilt, Coroutines, Material Design)
 *  Android unit testing
 *  UX/UI
 *  RESTful API development with Ktor
 *  Clean, secure and maintainable code
+*  Git
 
 ##### I am currently learning Data Structures and Algorithms
 
