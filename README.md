@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, I am Bogomil Stoyanov 👋
+
+My skills:
+*  Android app development
+   *Jetpack compose
+   *MVVM
+   *Retrofit, Room, Dependency injection with Dagger Hilt
+*  UX/UI
+*  RESTful API development with Ktor
 
 <!--
 **Bogomil-Stoyanov/Bogomil-Stoyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
