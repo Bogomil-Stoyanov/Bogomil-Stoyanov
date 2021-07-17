@@ -2,7 +2,7 @@
 
 ##### My skills:
 *  Android app development - Kotlin and Java (Jetpack Compose, MVVM, Retrofit, Room, Dagger Hilt, Coroutines, Material Design)
-*  Android unit testing
+*  Android testing
 *  UX/UI
 *  RESTful API development with Ktor
 *  Clean, secure and maintainable code
