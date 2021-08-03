@@ -12,6 +12,8 @@
 
 ##### I have an app in Google Play store (80k+ downloads - https://play.google.com/store/apps/details?id=com.bbsapps.whatamigame)
 
+![](https://komarev.com/ghpvc/?username=Bogomil-Stoyanov)
+
 
 
 <!--
