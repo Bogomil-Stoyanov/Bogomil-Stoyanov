@@ -5,7 +5,7 @@
 *  Android testing
 *  UX/UI
 *  RESTful API development with Ktor
-*  Databases: MySQL, MongoDB, SQLite
+*  Databases - MySQL, MongoDB, SQLite
 *  Clean, secure and maintainable code
 *  Git
 
