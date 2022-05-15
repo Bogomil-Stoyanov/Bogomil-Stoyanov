@@ -10,7 +10,7 @@
 
 ##### I am currently learning Data Structures and Algorithms
 
-##### I have an app in Google Play store (100k+ downloads - https://play.google.com/store/apps/details?id=com.bbsapps.whatamigame)
+##### I have an app in Google Play store (110k+ downloads - https://play.google.com/store/apps/details?id=com.bbsapps.whatamigame)
 
 ##### I am a Udemy instructor (Jetpack compose course  - https://www.udemy.com/course/android-jetpack-compose-from-zero-to-hero/?referralCode=59D916A5D1E29E3C51E2)
 
