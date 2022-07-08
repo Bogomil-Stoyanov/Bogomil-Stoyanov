@@ -9,7 +9,7 @@
 *  Clean, secure and maintainable code
 *  Git
 
-##### I am currently learning Data Structures and Algorithms
+##### Computer Science student
 
 ##### I have an app in Google Play store (120k+ downloads - https://play.google.com/store/apps/details?id=com.bbsapps.whatamigame)
 
