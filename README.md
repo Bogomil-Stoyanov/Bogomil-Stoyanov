@@ -11,6 +11,8 @@
 
 ##### Computer Science student
 
+##### Currently learning KMM
+
 ##### I have an app in Google Play store (120k+ downloads - https://play.google.com/store/apps/details?id=com.bbsapps.whatamigame)
 
 ##### I am a Udemy instructor (Jetpack compose course  - https://www.udemy.com/user/bogomil-stoyanov/)
