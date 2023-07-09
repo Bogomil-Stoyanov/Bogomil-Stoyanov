@@ -13,7 +13,7 @@
 
 ##### Currently learning KMM
 
-##### I have apps on Google Play store (150k+ downloads - https://play.google.com/store/apps/details?id=com.bbsapps.whatamigame)
+##### I have apps on Google Play store (150k+ downloads - https://play.google.com/store/apps/developer?id=BBS+Apps
 
 ##### I am a Udemy instructor https://www.udemy.com/user/bogomil-stoyanov/
 
