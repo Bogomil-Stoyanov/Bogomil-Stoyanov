@@ -6,7 +6,7 @@
 *  UX/UI
 *  RESTful API development with Ktor
 *  Databases - MySQL, MongoDB, SQLite
-*  Clean, secure and maintainable code
+*  Clean, secure, and maintainable code
 *  Git
 
 ##### Computer Science student
