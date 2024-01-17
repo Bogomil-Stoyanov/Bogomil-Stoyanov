@@ -11,7 +11,7 @@
 
 ##### Computer Science student
 
-##### Currently learning KMM
+##### Currently learning FullStack development (Node.js, React, Koa, Knex + Objection)
 
 ##### I have apps on Google Play store (150k+ downloads - [Google Play - BBS Apps](https://play.google.com/store/apps/dev?id=5812216234363690111))
 
