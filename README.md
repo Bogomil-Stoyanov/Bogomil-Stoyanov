@@ -1,33 +1,33 @@
 # Hi there, I'm Bogomil Stoyanov 👋
 
-**Software Engineer | CS Graduate | Academic TA & Instructor**
+**Full-Stack Software Engineer | MSc Student in AI | University Lecturer & Teaching Assistant**
 
-I’m a Software Engineer focused on building robust backend & full-stack systems, mobile applications, and integrating Applied AI into modern software products.
+I’m a Software Engineer focused on building scalable backend & full-stack systems, native Android applications, and integrating Applied AI into real-world software products.
 
 ---
 
 ### What I Do
-* **Software Engineering:** Mid-Level Software Engineer building scalable backend, full-stack & mobile architectures.
-* **Academic & Teaching:** Teaching Assistant for Functional Programming @ Sofia University (FMI) and co-leading the upcoming *Applied AI Programming* course.
-* **Open Source & Products:** Published apps on Google Play with **220k+ downloads** and technical courses on Udemy.
+- **Software Engineering:** Mid-Level Full-Stack Software Engineer architecting high-traffic web platforms, microservices, and mobile applications.
+- **Teaching & Academia:** Co-creator & Lecturer of the *Applied AI Programming* elective course and Teaching Assistant (AI & Functional Programming) @ Sofia University (FMI).
+- **AI Research & Products:** Conducting NLP research on LLM evaluation, developing local LLM workflows, and maintaining Android apps with **250k+ downloads**.
 
 ---
 
 ### Tech Stack & Skills
-
-* **Languages:** Go, Kotlin, Java, JavaScript/TypeScript, SQL
-* **Backend & Web:** Go, Node.js, Ktor, React, RESTful APIs, MySQL, MongoDB, SQLite
-* **Mobile Development:** Jetpack Compose, Android SDK, MVVM/Clean Architecture, Coroutines, Room, Hilt, Retrofit
-* **AI & Machine Learning:** Applied AI Systems, Local LLM Deployment (Ollama, open-weight model optimization), LLM Integration
-* **Tools & Practices:** Git, CI/CD, Clean & Maintainable Code, System Design
+- **Languages:** Go, TypeScript/JavaScript, Python, Kotlin, Java, C++, SQL
+- **Backend, Web & Data:** Go, Node.js, React, Ktor, PostgreSQL, MySQL, MongoDB, OpenSearch, Valkey/Redis, SQLite
+- **Mobile Development:** Jetpack Compose, Android SDK, MVVM/Clean Architecture, Coroutines, Room, Hilt, Retrofit
+- **AI & Machine Learning:** Applied AI Systems, RAG, LLM Evaluation, Local LLM Deployment & Optimization (Ollama, open-weight models)
+- **DevOps & Practices:** Docker, Git, CI/CD, System Design, Clean & Maintainable Code
 
 ---
 
-### Teaching & Educational Projects
-* **Teaching Assistant** – Functional Programming Lab @ Faculty of Mathematics and Informatics, Sofia University
-* **Upcoming Elective Course:** *Applied AI Programming: Building Software Products with LLMs*
-* **Udemy Instructor:** [My Udemy Profile](https://www.udemy.com/user/bogomil-stoyanov/)
-* **Google Play Portfolio:** [BBS Apps (220k+ Downloads)](https://play.google.com/store/apps/dev?id=5812216234363690111)
+### Teaching, Research & Products
+- **Co-Creator & Lecturer:** *Applied AI Programming: Building Software Products with LLMs* @ FMI, Sofia University
+- **Teaching Assistant:** *Artificial Intelligence* & *Functional Programming* Labs @ FMI, Sofia University
+- **NLP Research:** Investigating calibration and bias in LLM-as-a-Judge systems
+- **Google Play Portfolio:** [BBS Apps (220k+ Downloads)](https://play.google.com/store/apps/dev?id=5812216234363690111)
+- **Udemy Instructor:** [My Udemy Profile](https://www.udemy.com/user/bogomil-stoyanov/)
 
 ---
 
